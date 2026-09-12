@@ -89,20 +89,21 @@ My personal portfolio where I showcase my projects and development journey.
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/NewErAM">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="40" title="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/guilherme-muniz-8188a0247/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/white" width="40" title="LinkedIn"/>
 </a>
 
 <a href="mailto:muniz_157@outlook.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="40" title="Email"/>
+  <img src="https://cdn.simpleicons.org/maildotru/white" width="40" title="Email"/>
 </a>
 
 </p>
