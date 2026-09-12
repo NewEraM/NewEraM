@@ -99,7 +99,7 @@ My personal portfolio where I showcase my projects and development journey.
 </a>
 
 <a href="https://www.linkedin.com/in/guilherme-muniz-8188a0247/">
-  <img src="https://cdn.simpleicons.org/linkedin/white" width="40" title="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
 </a>
 
 <a href="mailto:muniz_157@outlook.com">
