@@ -102,7 +102,7 @@ My personal portfolio where I showcase my projects and development journey.
 </a>
 
 <a href="mailto:muniz_157@outlook.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="40" title="Email"/>
 </a>
 
 </p>
