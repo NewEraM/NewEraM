@@ -23,31 +23,10 @@ I'm currently learning how to build applications, improve my problem-solving ski
 
 ---
 
-## 🚀 Featured Projects
+### ⚡ [FastApi-Ebac](https://github.com/NewEraM/FastApi-Ebac)
 
-### 🧮 [Calculadora IMC](https://github.com/NewErAM/calculadoraIMC)
+A backend project developed with **Python and FastAPI**, focused on building RESTful APIs and practicing backend development concepts such as HTTP methods, data validation, authentication, CRUD operations, and API organization.
 
-A BMI calculator project created to practice programming logic and web development.
-
-### 💰 [Calculador Controle Gastos](https://github.com/NewErAM/calculadorControleGastos)
-
-An expense management project created to practice JavaScript and application logic.
-
-### 🎮 [Jogo Adivinhação](https://github.com/NewErAM/jogoAdivinhacao)
-
-A simple guessing game developed to practice JavaScript and programming logic.
-
-### 🅿️ [Estacionamento](https://github.com/NewErAM/estacionamento)
-
-A parking system project created to practice programming logic and JavaScript.
-
-### 📍 [Cadastro Endereço](https://github.com/NewErAM/cadastroEndereco)
-
-A project developed to practice HTML, CSS and JavaScript.
-
-### 🌐 [Portfolio](https://github.com/NewErAM/portfolio)
-
-My personal portfolio where I showcase my projects and development journey.
 
 ---
 
