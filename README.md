@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Guilherme Muniz
+# 👋 Olá, eu sou Guilherme Muniz
 
-### 💻 Backend Python Developer in Training
+### 💻 Desenvolvedor Backend Python em Formação
 
-I'm a developer in training focused on **Python, backend development, REST APIs and databases**.
+Sou um desenvolvedor em formação com foco em **Python, desenvolvimento backend, APIs REST e bancos de dados**.
 
-I'm currently building practical projects to improve my programming skills, problem-solving abilities and understanding of software development.
+Atualmente, estou desenvolvendo projetos práticos para aprimorar minhas habilidades de programação, resolução de problemas e compreensão sobre desenvolvimento de software.
 
 ---
 
-## 🌐 My Portfolio
+## 🌐 Meu Portfólio
 
-Check out my professional portfolio:
+Confira meu portfólio profissional:
 
 ### 👉 [guilherme-muniz.github.io](https://neweram.github.io/)
 
-You can find my projects, skills, technologies and contact information there.
+Lá você pode encontrar meus projetos, habilidades, tecnologias e informações de contato.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Linguagens e Ferramentas
 
 <p align="left">
 
@@ -54,102 +54,102 @@ You can find my projects, skills, technologies and contact information there.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
 ### 🔥 [API To-Do List](https://github.com/NewEraM/API_To-Do-List)
 
-A **REST API for task management**, developed with Python and focused on practicing backend development and API architecture.
+Uma **API REST para gerenciamento de tarefas**, desenvolvida com Python e focada na prática de desenvolvimento backend e arquitetura de APIs.
 
-The project explores the development and organization of API endpoints for creating, managing and updating tasks.
+O projeto explora o desenvolvimento e a organização de endpoints para criação, gerenciamento e atualização de tarefas.
 
-**Technologies:**
+**Tecnologias:**
 
-- 🐍 Python
-- ⚡ FastAPI
-- 🔌 REST API
-- 🔧 Git & GitHub
-- 💻 Backend Development
+* 🐍 Python
+* ⚡ FastAPI
+* 🔌 REST API
+* 🔧 Git & GitHub
+* 💻 Desenvolvimento Backend
 
-This project represents my practical experience building backend applications and working with REST APIs.
+Este projeto representa minha experiência prática na construção de aplicações backend e no desenvolvimento de APIs REST.
 
 ---
 
 ### ⚡ [FastApi-Ebac](https://github.com/NewEraM/FastApi-Ebac)
 
-A backend project developed with **Python and FastAPI**, focused on building RESTful APIs and practicing backend development concepts.
+Projeto backend desenvolvido com **Python e FastAPI**, com foco na construção de APIs RESTful e na prática de conceitos de desenvolvimento backend.
 
-The project includes concepts such as HTTP methods, data validation, authentication, CRUD operations, API organization and database integration.
+O projeto aborda conceitos como métodos HTTP, validação de dados, autenticação, operações CRUD, organização de APIs e integração com banco de dados.
 
-**Technologies:**
+**Tecnologias:**
 
-- 🐍 Python
-- ⚡ FastAPI
-- 📦 Pydantic
-- 🗄️ SQLAlchemy
-- 🗃️ SQLite
-- 🔐 Authentication
-- 🔌 REST APIs
-
----
-
-## 📚 Currently Learning
-
-- 🐍 Python
-- ⚡ FastAPI
-- 🔌 REST APIs
-- 🗄️ SQLAlchemy
-- 🗃️ SQLite
-- 🟨 JavaScript
-- ⚛️ React
-- 🔧 Git & GitHub
+* 🐍 Python
+* ⚡ FastAPI
+* 📦 Pydantic
+* 🗄️ SQLAlchemy
+* 🗃️ SQLite
+* 🔐 Autenticação
+* 🔌 APIs REST
 
 ---
 
-## 🎯 Goals
+## 📚 Atualmente Estudando
 
-- Improve my Python and backend development skills
-- Build real-world projects
-- Develop and work with REST APIs
-- Improve my knowledge of databases
-- Learn software engineering best practices
-- Improve my knowledge of cloud technologies
-- Strengthen my understanding of backend architecture
-- Build a strong professional portfolio
-- Start my professional career as a developer
+* 🐍 Python
+* ⚡ FastAPI
+* 🔌 APIs REST
+* 🗄️ SQLAlchemy
+* 🗃️ SQLite
+* 🟨 JavaScript
+* ⚛️ React
+* 🔧 Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Objetivos
+
+* Aprimorar minhas habilidades em Python e desenvolvimento backend
+* Desenvolver projetos próximos de cenários reais
+* Desenvolver e trabalhar com APIs REST
+* Aprofundar meus conhecimentos em bancos de dados
+* Aprender boas práticas de engenharia de software
+* Aprimorar meus conhecimentos em tecnologias de cloud
+* Fortalecer meu conhecimento em arquitetura backend
+* Construir um portfólio profissional sólido
+* Iniciar minha carreira profissional como desenvolvedor
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="left">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NewErAM&show_icons=true&theme=dark&hide_border=true"
-    height="170"
-  />
+<img
+ src="https://github-readme-stats.vercel.app/api?username=NewErAM&show_icons=true&theme=dark&hide_border=true"
+ height="170"
+/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewErAM&layout=compact&theme=dark&hide_border=true"
-    height="170"
-  />
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewErAM&layout=compact&theme=dark&hide_border=true"
+ height="170"
+/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Sequência de Contribuições
 
 <p align="left">
 
-  <img
-    src="https://streak-stats.demolab.com?user=NewErAM&theme=dark&hide_border=true"
-  />
+<img
+ src="https://streak-stats.demolab.com?user=NewErAM&theme=dark&hide_border=true"
+/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Entre em Contato
 
 <p align="left">
 
@@ -181,16 +181,16 @@ The project includes concepts such as HTTP methods, data validation, authenticat
 
 ---
 
-## 🌱 My Development Journey
+## 🌱 Minha Jornada no Desenvolvimento
 
-I'm learning by building projects, solving problems and experimenting with different technologies.
+Estou aprendendo por meio do desenvolvimento de projetos, resolução de problemas e experimentação com diferentes tecnologias.
 
-Each project is an opportunity to transform theory into practice, improve my problem-solving skills and understand how real software applications are developed.
+Cada projeto é uma oportunidade de transformar teoria em prática, aprimorar minhas habilidades de resolução de problemas e entender como aplicações de software reais são desenvolvidas.
 
-My current focus is **Backend Python, FastAPI, REST APIs, SQLAlchemy and SQLite**.
+Meu foco atual é **Backend Python, FastAPI, APIs REST, SQLAlchemy e SQLite**.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Obrigado por visitar meu perfil!
 
-**Keep learning. Keep building. Keep improving. 🚀**
+**Continue aprendendo. Continue construindo. Continue evoluindo. 🚀**
